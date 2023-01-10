@@ -1,0 +1,3 @@
+une remarque concerant les parties 2.
+j'ai travaille avec le fichier genere a partir du serialisation dans
+dans la question du deserialisation
